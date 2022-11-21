@@ -1,3 +1,5 @@
+// Constants
+
 import Foundation
 
 let second = 1
